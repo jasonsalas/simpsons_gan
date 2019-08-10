@@ -7,8 +7,8 @@ I'll be adding more flavors & architectures of GANs as this repo progresses to (
 - [Read the notes](https://medium.com/@jasonsalas_89883/recreating-the-simpsons-with-a-dcgan-2122f788faea)
 
 # Output images
-![Training1](https://miro.medium.com/max/255/1*ySz676whrxiM58YfxrWSyg.gif "Initial training run")
+![](https://miro.medium.com/max/255/1*ySz676whrxiM58YfxrWSyg.gif)
 
-![Model 2](https://miro.medium.com/max/255/1*ySz676whrxiM58YfxrWSyg.gif "Logo Title Text 1")
+![](https://miro.medium.com/max/255/1*ySz676whrxiM58YfxrWSyg.gif)
 
-![Deeper model](https://miro.medium.com/max/700/1*0_rkcID4tOk3hVCRqjeUOQ.gif "After training on a DCGAN")
+![](https://miro.medium.com/max/700/1*0_rkcID4tOk3hVCRqjeUOQ.gif)
