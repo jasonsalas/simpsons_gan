@@ -9,6 +9,6 @@ I'll be adding more flavors & architectures of GANs as this repo progresses to (
 # Output images
 ![Training1](https://miro.medium.com/max/255/1*ySz676whrxiM58YfxrWSyg.gif "Initial training run")
 
-![Model 2](https://miro.medium.com/max/700/1*0_rkcID4tOk3hVCRqjeUOQ.gif "Logo Title Text 1")
+![Model 2](https://miro.medium.com/max/255/1*ySz676whrxiM58YfxrWSyg.gif "Logo Title Text 1")
 
-![Deeper model](https://miro.medium.com/max/673/1*JbZRZzipoeEgqFirfXLLHw.png "After training on a DCGAN")
+![Deeper model](https://miro.medium.com/max/700/1*0_rkcID4tOk3hVCRqjeUOQ.gif "After training on a DCGAN")
