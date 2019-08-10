@@ -7,8 +7,12 @@ I'll be adding more flavors & architectures of GANs as this repo progresses to (
 - [Read the notes](https://medium.com/@jasonsalas_89883/recreating-the-simpsons-with-a-dcgan-2122f788faea)
 
 # Output images
-![](https://miro.medium.com/max/255/1*ySz676whrxiM58YfxrWSyg.gif)
+Here's the output after a simple model with a 40,000-iteration training run
 
-![](https://miro.medium.com/max/255/1*ySz676whrxiM58YfxrWSyg.gif)
+![model training](https://github.com/jasonsalas/simpsons_gan/blob/master/crossfade_40000_training_run.gif)
 
-![](https://miro.medium.com/max/700/1*0_rkcID4tOk3hVCRqjeUOQ.gif)
+...more training with a deeper, more complex model starts to produce better results...
+![more model training](https://github.com/jasonsalas/simpsons_gan/blob/master/training_by_epoch.gif)
+
+...the deepest model produces smooth edges, reduces pixelation and captures fine details.
+![after 80 epochs of deep training](https://github.com/jasonsalas/simpsons_gan/blob/master/3.png)
